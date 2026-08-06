@@ -1,0 +1,11 @@
+Invoice processing workflow:
+
+Invoices arrive through email.
+Employees manually enter data into Excel.
+Managers approve invoices manually.
+Finance team uploads data into ERP.
+
+Problems:
+High processing time.
+Manual errors.
+No automation.
