@@ -14,7 +14,7 @@ def ask_gemini(prompt):
     try:
         response = client.chat.completions.create(
             model="google/gemini-2.5-flash",
-            max_tokens=1800,
+            max_tokens=500,
             messages=[
                 {
                     "role": "user",
